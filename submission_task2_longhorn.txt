@@ -1,0 +1,40 @@
+Completion time:  943.60 
+test 1 starts on machine 1 at time   0.00 - available resources: 13 
+test 1 starts on machine 2 at time 522.67 - available resources: 39 
+test 1 starts on machine 3 at time 183.18 - available resources: 30 
+test 1 starts on machine 4 at time 794.90 - available resources: 32 
+test 1 starts on machine 5 at time 303.75 - available resources:  0 
+test 1 starts on machine 6 at time 635.09 - available resources: 41 
+test 2 starts on machine 1 at time 297.77 - available resources: 39 
+test 2 starts on machine 2 at time 410.24 - available resources: 40 
+test 2 starts on machine 3 at time  80.94 - available resources: 49 
+test 2 starts on machine 4 at time 604.49 - available resources:  6 
+test 2 starts on machine 5 at time   0.00 - available resources: 31 
+test 2 starts on machine 6 at time 747.91 - available resources: 40 
+test 3 starts on machine 1 at time 852.93 - available resources: 38 
+test 3 starts on machine 2 at time 635.09 - available resources: 25 
+test 3 starts on machine 3 at time 740.40 - available resources: 15 
+test 3 starts on machine 4 at time 188.10 - available resources: 34 
+test 3 starts on machine 5 at time 509.29 - available resources: 48 
+test 3 starts on machine 6 at time  93.03 - available resources: 47 
+test 4 starts on machine 1 at time 192.35 - available resources: 12 
+test 4 starts on machine 2 at time 297.77 - available resources: 41 
+test 4 starts on machine 3 at time 573.28 - available resources: 29 
+test 4 starts on machine 4 at time 699.70 - available resources:  5 
+test 4 starts on machine 5 at time  80.94 - available resources:  1 
+test 4 starts on machine 6 at time 860.73 - available resources:  9 
+test 5 starts on machine 1 at time 667.08 - available resources: 11 
+test 5 starts on machine 2 at time  94.89 - available resources: 21 
+test 5 starts on machine 3 at time 852.93 - available resources: 48 
+test 5 starts on machine 4 at time 509.29 - available resources:  7 
+test 5 starts on machine 5 at time 415.16 - available resources:  4 
+test 5 starts on machine 6 at time   0.00 - available resources:  1 
+test 6 starts on machine 1 at time 573.28 - available resources: 22 
+test 6 starts on machine 2 at time   0.00 - available resources: 43 
+test 6 starts on machine 3 at time 491.99 - available resources: 34 
+test 6 starts on machine 4 at time 396.79 - available resources:  8 
+test 6 starts on machine 5 at time 192.35 - available resources:  0 
+test 6 starts on machine 6 at time 303.75 - available resources:  0 
+
+test resources exhausted for test # 1
+test resources exhausted for test # 6
