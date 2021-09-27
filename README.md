@@ -1,7 +1,9 @@
 # Automated Testing in Production Planning in Test-based Engineering
 
 •	Led a team to analyze the requirements and limitations of the EV powertrain testing of Siemens Factory
+
 •	Built a deep neural network model through Pytorch to predict the time required of the testing procedures
+
 •	Applied local search metaheuristics for automated testing and reduced the total testing time by 74.2%
 
 
