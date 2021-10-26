@@ -10,6 +10,7 @@
 
 <div align=center><img src="https://github.com/Aiden64730/Automated-Testing-in-Production-Planning-in-Test-based-Engineering/blob/main/Images/background.JPG" width="600" height="330" /></div>
 
+<div align=center><img src="https://github.com/Aiden64730/Automated-Testing-in-Production-Planning-in-Test-based-Engineering/blob/main/Images/Definition.JPG" width="600" height="330" /></div>
 
 <div align=center><img src="https://github.com/Aiden64730/Automated-Testing-in-Production-Planning-in-Test-based-Engineering/blob/main/Images/Result.JPG" width="600" height="330" /></div>
 
